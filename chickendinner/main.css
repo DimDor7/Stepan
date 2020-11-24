@@ -1,0 +1,79 @@
+body {
+    background-image: url(img/back.png);
+    width: 1100px;
+    margin: 0 auto;
+}
+div {
+    margin: 20px;
+}
+.player {
+    text-align: center;
+}
+.mainmenu {
+    background: #2b35ce;
+    border-radius: 25px;
+    border: 1px solid black;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 0 0 20px black;
+}
+.mainmenu a {
+    background: #2b35ce;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 0 65px;
+    margin: 0 -2px;
+    text-decoration: none;
+}
+.mainmenu a:hover {
+    background: #5b62c7;
+    text-decoration: underline;
+}
+.content {
+    background-color: rgb(195, 198, 221);
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 20px;
+    height: 1830px;
+    box-shadow: 0 0 20px black;
+}
+.content img {
+    float: left;
+    padding-right: 10px;
+}
+#strongword {
+    text-align: right;
+    font-size: 20px;
+    margin: 0px;
+}
+.stepan {
+    text-align: center;
+    font-family: cursive;
+}
+#text {
+    text-align: justify;
+    font-family: Arial;
+    font-size: 18px;
+    margin: 0px;
+}
+.map {
+    background-color: rgb(195, 198, 221);
+    border: 1px solid;
+    border-radius: 25px;
+    box-shadow: 0 0 20px black;
+    text-align: center;
+    margin: 40px;
+}
+.ft img{
+
+    background-color: rgb(195, 198, 221);
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 20px;
+    box-shadow: 0 0 20px black;
+    text-align: center;
+    width: 45%;
+}
